@@ -72,3 +72,6 @@ Sistema de inimigos com IA simples
 Menu inicial e sistema de fases
 Sistema de pontuação global
 Power-ups e habilidades especiais
+
+# link youtube
+https://youtu.be/6jbJXkObfFo
